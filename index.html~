@@ -3,7 +3,6 @@ layout: default
 title: Max Munday
 ---
 <div class="blurb">
-	![alt text](https://github.com/maxmunday/maxmunday.github.io/pictures/headshot.jpg "Author")
 	<h1>Hi there, I'm Max Munday.</h1>
 	<p>I am an infosec student currently fulfilling my technolust. Please bear with me... <a href="/about">Read more about my life...</a></p>
 </div><!-- /.blurb -->
