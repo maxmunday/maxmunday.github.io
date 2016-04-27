@@ -44,7 +44,7 @@ I installed and used [Arch Linux](https://www.archlinux.org/) as learning tool a
 
 + [PentesterLab](https://pentesterlab.com/individuals) - I started with the beginner exercises and am working through them all.
 
-+[Hack This Site - Basic Missions](https://www.hackthissite.org/)
++ [Hack This Site - Basic Missions](https://www.hackthissite.org/)
 
 
 ## War Games
