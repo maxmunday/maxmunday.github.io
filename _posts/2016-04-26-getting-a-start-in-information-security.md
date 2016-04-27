@@ -60,7 +60,7 @@ I really enjoyed these and plan to keep doing more in the future.
 
 + [Defensive Security *Entering the Infosec Biz*.](http://www.defensivesecurity.org/entering-information-security-industry/)
 
-+ [Brian Krebs *How to Break Into Security, Schneier Edition*.](http://krebsonsecurity.com/2012/07/how-to-break-into-security-schneier-edition/)
++ [Daniel Miessler *How to Build a Successful Information Security Career*.](https://danielmiessler.com/blog/build-successful-infosec-career/)
 
 + [Corelan Team *How to Become a Pentester*.](https://www.corelan.be/index.php/2015/10/13/how-to-become-a-pentester/)
 
