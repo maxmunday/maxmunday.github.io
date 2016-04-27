@@ -15,53 +15,53 @@ I will list some major resources I worked through to start me on my ongoing jour
 
 ## Linux
 
-+[*The Linux Command Line* by William Shotts.](http://linuxcommand.org/tlcl.php)
++ [*The Linux Command Line* by William Shotts.](http://linuxcommand.org/tlcl.php)
 
-+[Arch Linux Wiki.](https://wiki.archlinux.org/)
++ [Arch Linux Wiki.](https://wiki.archlinux.org/)
 
-+[Reddit's /r/Linux4Noobs.](https://www.reddit.com/r/linux4noobs/)
++ [Reddit's /r/Linux4Noobs.](https://www.reddit.com/r/linux4noobs/)
 
 I installed and used [Arch Linux](https://www.archlinux.org/) as learning tool after starting with [Linux Mint](https://www.linuxmint.com/). I now use [Kubuntu](http://www.kubuntu.org/) as a daily driver, and have [Kali](https://www.kali.org/) in a VM for learning pentesting.
 
 
 ## Python
 
-+[*Learn Python the Hard Way* by Zed Shaw.](http://learnpythonthehardway.org/)
++ [*Learn Python the Hard Way* by Zed Shaw.](http://learnpythonthehardway.org/)
 
-+[*Hacking Secret Ciphers with Python* by Al Sweigart](https://inventwithpython.com/hacking/)
++ [*Hacking Secret Ciphers with Python* by Al Sweigart](https://inventwithpython.com/hacking/)
 
-+[*Tutorials Point* - python tutorials and reference site.](http://www.tutorialspoint.com/python/index.htm)
++ [*Tutorials Point* - python tutorials and reference site.](http://www.tutorialspoint.com/python/index.htm)
 
 
 ## Networking
 
-+[*Cybrary*'s CompTIA Network+ course](https://www.cybrary.it/course/comptia-network-plus/)
++ [*Cybrary*'s CompTIA Network+ course](https://www.cybrary.it/course/comptia-network-plus/)
 
 (I plan to get CCNA certified through another means.)
 
 
 ## Pentesting
 
-+[PentesterLab](https://pentesterlab.com/individuals) - I started with the beginner exercises and am working through them all.
++ [PentesterLab](https://pentesterlab.com/individuals) - I started with the beginner exercises and am working through them all.
 
 +[Hack This Site - Basic Missions](https://www.hackthissite.org/)
 
 
 ## War Games
 
-+[*Over The Wire* - Bandit.](http://overthewire.org/wargames/)
++ [*Over The Wire* - Bandit.](http://overthewire.org/wargames/)
 
-+[VulnHub - *PRIMER*.](https://www.vulnhub.com/entry/primer-101,136/)
++ [VulnHub - *PRIMER*.](https://www.vulnhub.com/entry/primer-101,136/)
 
 I really enjoyed these and plan to keep doing more in the future.
 
 
 ## InfoSec Guides
 
-+[Defensive Security *Entering the Infosec Biz*.](http://www.defensivesecurity.org/entering-information-security-industry/)
++ [Defensive Security *Entering the Infosec Biz*.](http://www.defensivesecurity.org/entering-information-security-industry/)
 
-+[Brian Krebs *How to Break Into Security, Schneier Edition*.](http://krebsonsecurity.com/2012/07/how-to-break-into-security-schneier-edition/)
++ [Brian Krebs *How to Break Into Security, Schneier Edition*.](http://krebsonsecurity.com/2012/07/how-to-break-into-security-schneier-edition/)
 
-+[Corelan Team *How to Become a Pentester*.](https://www.corelan.be/index.php/2015/10/13/how-to-become-a-pentester/)
++ [Corelan Team *How to Become a Pentester*.](https://www.corelan.be/index.php/2015/10/13/how-to-become-a-pentester/)
 
-+[Reddit's /r/NetSecStudents.](https://www.reddit.com/r/netsecstudents)
++ [Reddit's /r/NetSecStudents.](https://www.reddit.com/r/netsecstudents)
