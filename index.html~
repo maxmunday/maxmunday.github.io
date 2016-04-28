@@ -1,15 +1,13 @@
 ---
 layout: default
-title: Max Munday
+title: Max Munday. Student Programmer, Pentester, and Information Security Obsessive.
 ---
 <div class="blurb">	
-	<img src="/pictures/headshot.jpg" alt="Author" style="float:left;width:198px; height:239px; padding:10px">
+	<img src="/pictures/headshot.jpg" alt="Max Munday" style="float:left;width:198px; height:239px; padding:10px">
 		<h1>Hi, I'm Max Munday.</h1>
-		<p>I am trusting my technolust and following it down the rabbit hole.</p> 
-		
-		<p>I enjoy learning new things and have followed a lifelong interest in technology into an obsession with infosec.</p> 
+		<p>I am a student programmer, pentester, and information security obsessive. I am a Linux and sci-fi enthusiast, and an avid outdoorsman.</p> 
 
-		<p>I am a former soldier and veteran, having planned and led combat and intelligence missions on operations in Australia, Afghanistan, and the Solomon Islands.</p> 
+		<p>I am an experienced security and risk professional having nearly a decade of military experience. I have planned and led combat and intelligence missions on operations in Australia, Afghanistan, and the Solomon Islands.</p> 
 
-		<p>I have a Bachelor degree in International Relations, and am currently undertaking a Masters in Information Technology at Swinburne University of Technology in Melbourne, Australia. However, I get the most out of self-learning. I have given an outline of everything I have studied so far in <a href="/">this blog post.</a></p>
+		<p>I am currently undertaking a Masters in Information Technology at Swinburne University in Melbourne, Australia. However, I get the most out of self-learning. I have given an outline of everything I have studied so far in <a href="/blog/2016/04/26/getting-a-start-in-information-security">this blog post.</a></p>
 </div><!-- /.blurb -->
