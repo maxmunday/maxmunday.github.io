@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 	<html>
 		<head>
-			<link rel="canonical" href=" { { site.url } }{ { page.url } }" />
+			<link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
 			<title>{{ page.title }}</title>
 			<!-- link to main stylesheet -->
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
@@ -9,9 +9,9 @@
 		<body>
 			<nav>
 	    		<ul>
-	        		<li><a href="/">About</a></li>
+	        		<li><a href="https://www.maxmunday.com">About</a></li>
 	        		<li><a href="https://au.linkedin.com/in/maxmunday">CV</a></li>
-	        		<li><a href="/blog">Blog</a></li>
+	        		<li><a href="https://www.maxmunday.com/blog">Blog</a></li>
 	    		</ul>
 			</nav>
 			<div class="container">
