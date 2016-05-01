@@ -32,6 +32,7 @@
 	<html>
 		<head>
 			<meta name="description" content="{{ page.description }}">
+			<meta name="author" content="Max Munday">
 			<title>{{ page.title }}</title>
 			<!-- link to main stylesheet -->
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
