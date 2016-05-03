@@ -41,12 +41,7 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-section {
-    width:250px;
-    float:left;
-    padding:10px;
-    background-color:lightgrey;
-}
+
 img.displayed {
     display: block;
     margin-left: auto;
