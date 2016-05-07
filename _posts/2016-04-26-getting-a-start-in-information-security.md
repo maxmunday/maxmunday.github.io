@@ -2,6 +2,7 @@
 layout: post
 title: "Getting a Start in Information Security"
 date: 2016-04-26
+description: "Courses and tutorials I have done to begin my career in information security."
 ---
 
 I have had a lifelong interest in computers and technology. My mother has a Computer Science degree and we always had various computers around the house. I used several forms of Windows, Mac OS, and OS X over the years for gaming and tinkering. However, I never undertook any formal training in computing or computer science, and consider myself very much a beginner in the discipline. 

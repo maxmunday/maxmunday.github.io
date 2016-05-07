@@ -2,6 +2,7 @@
 layout: post
 title: "Creating My Website"
 date: 2016-04-22
+description: "How I created my site using GitHub Pages and Jekyll."
 ---
 
 I am creating my site from scratch mainly as a way of learning the basics of HTML and CSS.

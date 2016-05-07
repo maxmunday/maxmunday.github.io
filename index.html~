@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Max Munday. Student Programmer, Penetration Tester, and Information Security Obsessive.
+description: I am Max Munday from Melbourne, Australia. I am a student programmer, penetration tester, and information security obsessive.
 ---
 <div class="blurb">	
 	<img src="/pictures/headshot.jpg" alt="Max Munday" style="float:left;width:198px; height:239px; padding:10px">
@@ -10,4 +11,8 @@ title: Max Munday. Student Programmer, Penetration Tester, and Information Secur
 		<p>I am an experienced security and risk professional having planned and led combat and intelligence missions on multiple operations during a near decade with the Australian Army.</p> 
 
 		<p>I am currently undertaking a Masters in Information Technology at Swinburne University in Melbourne, Australia. However, I get the most out of self-learning. I have given an outline of everything I have studied so far in <a href="/blog/2016/04/26/getting-a-start-in-information-security">this blog post.</a></p>
+		
+		<p> Read my blog <a href="/blog/">here.</a></p>
+		
+		<p> Follow me on twitter <a href="https://twitter.com/_maxmunday">@_maxmunday.</a></p>
 </div><!-- /.blurb -->
