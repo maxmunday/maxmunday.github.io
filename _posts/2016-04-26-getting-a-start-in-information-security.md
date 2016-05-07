@@ -14,7 +14,7 @@ After deciding on a career realignment toward infosec, particularly pentesting, 
 I will list some major resources I worked through to start me on my ongoing journey. Of course this is still a work in progress.
 
 
-## Linux
+## Linux/BASH
 
 + [*The Linux Command Line* by William Shotts.](http://linuxcommand.org/tlcl.php)
 
