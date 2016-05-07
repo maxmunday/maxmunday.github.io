@@ -4,6 +4,8 @@ title: "Getting a Start in Information Security"
 date: 2016-04-26
 description: "Courses and tutorials I have done to begin my career in information security."
 ---
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+
 
 I have had a lifelong interest in computers and technology. My mother has a Computer Science degree and we always had various computers around the house. I used several forms of Windows, Mac OS, and OS X over the years for gaming and tinkering. However, I never undertook any formal training in computing or computer science, and consider myself very much a beginner in the discipline. 
 
@@ -14,55 +16,71 @@ After deciding on a career realignment toward infosec, particularly pentesting, 
 I will list some major resources I worked through to start me on my ongoing journey. Of course this is still a work in progress.
 
 
-## Linux/BASH
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
-+ [*The Linux Command Line* by William Shotts.](http://linuxcommand.org/tlcl.php)
+\-\-[ Linux/BASH ]
 
-+ [Arch Linux Wiki.](https://wiki.archlinux.org/)
+\* [The Linux Command Line by William Shotts.](http://linuxcommand.org/tlcl.php)
 
-+ [Reddit's /r/Linux4Noobs.](https://www.reddit.com/r/linux4noobs/)
+\* [Arch Linux Wiki.](https://wiki.archlinux.org/)
+
+\* [Reddit's /r/Linux4Noobs.](https://www.reddit.com/r/linux4noobs/)
 
 I installed and used [Arch Linux](https://www.archlinux.org/) as learning tool after starting with [Linux Mint](https://www.linuxmint.com/). I now use [Kubuntu](http://www.kubuntu.org/) as a daily driver, and have [Kali](https://www.kali.org/) in a VM for learning pentesting.
 
 
-## Python
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
-+ [*Learn Python the Hard Way* by Zed Shaw.](http://learnpythonthehardway.org/)
+\-\-[  Python ]
 
-+ [*Hacking Secret Ciphers with Python* by Al Sweigart](https://inventwithpython.com/hacking/)
+\* [Learn Python the Hard Way by Zed Shaw.](http://learnpythonthehardway.org/)
 
-+ [*Tutorials Point* - python tutorials and reference site.](http://www.tutorialspoint.com/python/index.htm)
+\* [Hacking Secret Ciphers with Python by Al Sweigart](https://inventwithpython.com/hacking/)
+
+\* [Tutorials Point - python tutorials and reference site.](http://www.tutorialspoint.com/python/index.htm)
 
 
-## Networking
 
-+ [*Cybrary*'s CompTIA Network+ course](https://www.cybrary.it/course/comptia-network-plus/)
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+
+\-\-[ Networking ]
+
+\* [Cybrary's CompTIA Network+ course](https://www.cybrary.it/course/comptia-network-plus/)
 
 (I plan to get CCNA certified through another means.)
 
 
-## Pentesting
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
-+ [PentesterLab](https://pentesterlab.com/individuals) - I started with the beginner exercises and am working through them all.
+\-\-[  Pentesting ]
 
-+ [Hack This Site - Basic Missions](https://www.hackthissite.org/)
+\* [PentesterLab](https://pentesterlab.com/individuals) - I started with the beginner exercises and am working through them all.
+
+\* [Hack This Site - Basic Missions](https://www.hackthissite.org/)
 
 
-## War Games
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
-+ [*Over The Wire* - Bandit.](http://overthewire.org/wargames/)
+\-\-[  War Games ]
 
-+ [VulnHub - *PRIMER*.](https://www.vulnhub.com/entry/primer-101,136/)
+\* [Over The Wire - Bandit.](http://overthewire.org/wargames/)
+
+\* [VulnHub - PRIMER.](https://www.vulnhub.com/entry/primer-101,136/)
 
 I really enjoyed these and plan to keep doing more in the future.
 
 
-## InfoSec Guides
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
-+ [Defensive Security *Entering the Infosec Biz*.](http://www.defensivesecurity.org/entering-information-security-industry/)
+\-\-[  InfoSec Guides ]
 
-+ [Daniel Miessler *How to Build a Successful Information Security Career*.](https://danielmiessler.com/blog/build-successful-infosec-career/)
+\* [Defensive Security Entering the Infosec Biz.](http://www.defensivesecurity.org/entering-information-security-industry/)
 
-+ [Corelan Team *How to Become a Pentester*.](https://www.corelan.be/index.php/2015/10/13/how-to-become-a-pentester/)
+\* [Daniel Miessler How to Build a Successful Information Security Career.](https://danielmiessler.com/blog/build-successful-infosec-career/)
 
-+ [Reddit's /r/NetSecStudents.](https://www.reddit.com/r/netsecstudents)
+\* [Corelan Team How to Become a Pentester.](https://www.corelan.be/index.php/2015/10/13/how-to-become-a-pentester/)
+
+\* [Reddit's /r/NetSecStudents.](https://www.reddit.com/r/netsecstudents)
+
+
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-

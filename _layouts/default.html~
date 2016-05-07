@@ -40,9 +40,9 @@
 		<body>
 			<nav>
 	    		<ul>
-	        		<li><a href="https://www.maxmunday.com">About</a></li>
-	        		<li><a href="https://au.linkedin.com/in/maxmunday">CV</a></li>
-	        		<li><a href="https://www.maxmunday.com/blog">Blog</a></li>
+	        		<li><a href="https://www.maxmunday.com">[About]</a></li>
+	        		<li><a href="https://au.linkedin.com/in/maxmunday">[CV]</a></li>
+	        		<li><a href="https://www.maxmunday.com/blog">[Blog]</a></li>
 	    		</ul>
 			</nav>
 			<div class="container">
@@ -54,8 +54,8 @@
 	    		<ul>
 	        		<li><a href="mailto:mundaymax@yahoo.com.au">email</a></li>
 	        		<li><a href="https://github.com/maxmunday">GitHub</a></li>
-				<li><a href="https://au.linkedin.com/in/maxmunday">LinkedIn</a></li>
-				<li><a href="https://twitter.com/_maxmunday">Twitter</a></li>
+					<li><a href="https://au.linkedin.com/in/maxmunday">LinkedIn</a></li>
+					<li><a href="https://twitter.com/_maxmunday">Twitter</a></li>
 				</ul>
 			</footer>
 		</body>

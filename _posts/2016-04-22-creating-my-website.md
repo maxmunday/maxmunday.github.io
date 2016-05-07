@@ -5,10 +5,14 @@ date: 2016-04-22
 description: "How I created my site using GitHub Pages and Jekyll."
 ---
 
+
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+
+
 I am creating my site from scratch mainly as a way of learning the basics of HTML and CSS.
 
 
-## Basics
+\-\-[ Basics ]
 
 
 The site is hosted on [GitHub Pages](https://pages.github.com/) and powered by [Jekyll](http://jekyllrb.com). I use Markdown to author my posts.
@@ -17,9 +21,14 @@ Some helpful tutorials were Jonathan McGlone's [guide](http://jmcglone.com/guide
 
 The documentation for [Jekyll](https://jekyllrb.com/docs/home/) and [GitHub Pages](https://help.github.com/categories/github-pages-basics/) is also very helpful.
 
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
-## Extras
+\-\-[ Extras ]
 
-+ [Custom 404 Page.](https://help.github.com/articles/creating-a-custom-404-page-for-your-github-pages-site/)
 
-+ [Search Engine Optimisation.](http://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf)
+\* [Custom 404 Page.](https://help.github.com/articles/creating-a-custom-404-page-for-your-github-pages-site/)
+
+\* [Search Engine Optimisation.](http://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf)
+
+
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
