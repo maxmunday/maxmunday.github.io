@@ -6,15 +6,35 @@ description: "Courses and tutorials I have done to begin my career in informatio
 ---
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
-
-I have had a lifelong interest in computers and technology. My mother has a Computer Science degree and we always had various computers around the house. I used several forms of Windows, Mac OS, and OS X over the years for gaming and tinkering. However, I never undertook any formal training in computing or computer science, and consider myself very much a beginner in the discipline. 
-
-
-After deciding on a career realignment toward infosec, particularly pentesting, I recognised the need to up-skill myself significantly. I was surprised by how much information there was out there, and so much of it was free. A majority of the online community believed that you can go from beginner to employable through online resources alone. Of course many also recommended higher education and various certifications as an important element of employability. 
+Trust your technolust... 
 
 
-I will list some major resources I worked through to start me on my ongoing journey. Of course this is still a work in progress.
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
+I like information security, I like it so much I decided to make it my career. 
+
+So I read as much as I could about the different roles, and what I needed to do to make a start in the field. I decided to focus on offensive security, as it is what I enjoy the most and it seems like an interesting place to start.
+
+
+The advice I read all pointed toward the need for a good foundation in three areas: 
+
+
+\* system administration
+
+
+\* networking
+
+
+\* programming
+
+
+In addition several people suggested getting a head start on offensive security concepts alongside the basics.
+
+
+So, that is what I focused on for my self-study. Formal study, certifications and work experience will round it out properly in the near future.
+
+
+This is what I have worked through so far. Of course this is still an ongoing work in progress.
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
