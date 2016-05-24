@@ -69,3 +69,9 @@ code {
     color: #39FF14;
     padding: 3px;
 }
+pre {
+    font-size: 14px;
+    font-family: monospace;
+    line-height: 1.4em;
+    font-weight: 400;
+}
