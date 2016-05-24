@@ -2,7 +2,7 @@
 layout: default
 title: Max's Blog
 ---
-	<img class="displayed" src="/pictures/bloglogo.png" alt= "Max's Blog" style="width:270px;height:92px">
+	<img src="/pictures/bloglogo.png" alt= "Max's Blog" style="width:270px;height:92px">
 	<ul class="posts">
 
 	  {% for post in site.posts %}
