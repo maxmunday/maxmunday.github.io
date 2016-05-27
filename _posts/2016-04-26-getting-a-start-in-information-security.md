@@ -71,9 +71,17 @@ I installed and used [Arch Linux](https://www.archlinux.org/) as learning tool a
 
 \-\-[ PHP/MySQL ]
 
-\* [codeacademy - PHP](https://www.codecademy.com/learn/php)
+\* [HTML.net - PHP](http://html.net/tutorials/php/)
 
 \* [tutorialspoint - MySQL](http://www.tutorialspoint.com/mysql/)
+
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+
+\-\-[ HTML/CSS ]
+
+\* [HTML.net - HTML](http://html.net/tutorials/html/)
+
+\* [HTML.net - CSS](http://html.net/tutorials/css/)
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
 03. INFOSEC  
