@@ -21,12 +21,9 @@ The advice I read all pointed toward the need for a good foundation in three are
 
 \* system administration
 
-
 \* networking
 
-
 \* programming
-
 
 In addition several people suggested getting a head start on offensive security concepts alongside the basics.
 
@@ -34,11 +31,13 @@ In addition several people suggested getting a head start on offensive security 
 So, that is what I focused on for my self-study. Formal study, certifications and work experience will round it out properly in the near future.
 
 
-This is what I have worked through so far. Of course this is still an ongoing work in progress.
+This is what I have worked through so far, with some included resources. Of course this is still an ongoing work in progress.
 
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
+00. SYSTEM ADMINISTRATION  
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
 
-\-\-[ Linux/BASH ]
+\-\-[ Linux/Bash ]
 
 \* [The Linux Command Line by William Shotts](http://linuxcommand.org/tlcl.php)
 
@@ -48,8 +47,17 @@ This is what I have worked through so far. Of course this is still an ongoing wo
 
 I installed and used [Arch Linux](https://www.archlinux.org/) as learning tool after starting with [Linux Mint](https://www.linuxmint.com/). I now use [Kubuntu](http://www.kubuntu.org/) as a daily driver, and have [Kali](https://www.kali.org/) in a VM for learning pentesting.
 
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
+01. NETWORKING  
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
 
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+\* [Cybrary's CompTIA Network+ course](https://www.cybrary.it/course/comptia-network-plus/)
+
+(I plan to get CCNA certified through another means.)
+
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
+02. PROGRAMMING/SCRIPTING/MARKUP  
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\- 
 
 \-\-[  Python ]
 
@@ -57,27 +65,27 @@ I installed and used [Arch Linux](https://www.archlinux.org/) as learning tool a
 
 \* [Hacking Secret Ciphers with Python by Al Sweigart](https://inventwithpython.com/hacking/)
 
-\* [Tutorials Point - python tutorials and reference site](http://www.tutorialspoint.com/python/index.htm)
-
-
+\* [tutorialspoint - Python](http://www.tutorialspoint.com/python/index.htm)
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
-\-\-[ Networking ]
+\-\-[ PHP/MySQL ]
 
-\* [Cybrary's CompTIA Network+ course](https://www.cybrary.it/course/comptia-network-plus/)
+\* [codeacademy - PHP](https://www.codecademy.com/learn/php)
 
-(I plan to get CCNA certified through another means.)
+\* [tutorialspoint - MySQL](http://www.tutorialspoint.com/mysql/)
 
-
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
+03. INFOSEC  
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
 \-\-[  Pentesting ]
 
-\* [PentesterLab](https://pentesterlab.com/individuals) - I started with the beginner exercises and am working through them all.
+\* [PentesterLab](https://pentesterlab.com/individuals) - Beginner exercises.
+
+\* [PentesterLab Bootcamp](https://pentesterlab.com/bootcamp) - I am doing a [write-up](https://www.maxmunday.com/blog/2016/05/14/pentesterlab-bootcamp-part-1-linux-and-scripting) of this course as I complete it.
 
 \* [Hack This Site - Basic Missions](https://www.hackthissite.org/)
-
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
