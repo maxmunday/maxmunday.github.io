@@ -3,14 +3,28 @@ layout: default
 title: Max's Blog
 description: Max Munday's Information Security Blog.
 ---
+<pre>
 
-	<img img class="displayed" src="/pictures/bloglogo.png" alt= "Max's Blog" style="width:270px;height:92px">
-	<img img class="displayed" src="/pictures/banner_1.png" alt= "banner" style="width:682px;height:71px">
-	<ul class="posts">
+[-]==========================================================================[-]
+                    ____max's___________  _____ ____________
+                   /  _/ | / / ____/ __ \/ ___// ____/ ____/
+                   / //  |/ / /_  / / / /\__ \/ __/ / /     
+                 _/ // /|  / __/ / /_/ /___/ / /___/ /___   
+                /___/_/ |_/_/    \____//____/_____/\____/   
+                                                  blog
+[-]==========================================================================[-]                                            
 
-	  {% for post in site.posts %}
-	    <li><b <span> {{ post.date | date_to_string }}</span></b> <b>---></b> <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-	  {% endfor %}
-	</ul>
-	
-	
+     |=--------------------------------------------------------------------=|
+     | "And then it happened... a door opened to a world...                 |
+     | rushing through the phone line like heroin through an addict's veins,|  
+     | an electronic pulse is sent out, a refuge from the day-to-day        |
+     | incompetencies is sought..."                                         |
+     |=-----------------------------------------=[ +++The Mentor+++ ]=-----=|
+</pre>
+
+    <ul class="posts">
+
+        {% for post in site.posts %}
+        <li><b <span> {{ post.date | date_to_string }}</span></b> <b>---></b> <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+        {% endfor %}
+    </ul>
