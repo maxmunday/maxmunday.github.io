@@ -30,5 +30,7 @@ The documentation for [Jekyll](https://jekyllrb.com/docs/home/) and [GitHub Page
 
 \* [Search Engine Optimisation](http://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf)
 
+\* [Colour scheme](http://ethanschoonover.com/solarized)
+
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-

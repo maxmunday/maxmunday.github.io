@@ -1,35 +1,36 @@
 body {
     margin: 60px auto;
     width: 70%;
+    background-color: #002b36;
 }
 nav ul, footer ul {
     font-family: monospace;
     padding: 0px;
     list-style: none;
-    color: #999;
+    color: #268bd2;
 }
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-    color: #999;
+    color: #268bd2;
 }
 a {
     text-decoration: none;
     font-size:14px;
     font-family: monospace;
-    color: #999;
+    color: #268bd2;
 }
 a:hover {
     text-decoration: underline;
 }
 a.lic {
     font-size: 12px;
-    color: #333;
+    color: #268bd2;
 }    
 b {
-	font-size: 14px;
-    color: #333;
-	font-family: monospace;
+    font-size: 14px;
+    color: #268bd2;
+    font-family: monospace;
 }
 h1 {
     font-size: 1em;
@@ -40,6 +41,7 @@ p {
     font-family: monospace;
     line-height: 1.4em;
     font-weight: 400;
+    color: #93a1a1;
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -74,4 +76,5 @@ pre {
     font-family: monospace;
     line-height: 1.4em;
     font-weight: 400;
+    color: #93a1a1;
 }
