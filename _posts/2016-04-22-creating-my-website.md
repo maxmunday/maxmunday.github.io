@@ -3,6 +3,7 @@ layout: post
 title: "Creating My Website"
 date: 2016-04-22
 description: "How I created my site using GitHub Pages and Jekyll."
+number: "0x01"
 ---
 
 

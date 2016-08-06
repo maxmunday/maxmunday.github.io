@@ -25,6 +25,6 @@ description: Max Munday's Information Security Blog.
     <ul class="posts">
 
         {% for post in site.posts %}
-        <li><b <span> {{ post.date | date_to_string }}</span></b> <b>---></b> <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+        <li><a <span> {{ post.number }}</span></a> <a> -- </a> <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
         {% endfor %}
     </ul>

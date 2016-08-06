@@ -3,6 +3,7 @@ layout: post
 title: "Getting a Start in Information Security"
 date: 2016-04-26
 description: "Courses and tutorials I have done to begin my career in information security."
+number: "0x02"
 ---
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 

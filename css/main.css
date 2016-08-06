@@ -33,8 +33,9 @@ b {
     font-family: monospace;
 }
 h1 {
-    font-size: 1em;
+    font-size: 14px;
     font-family: monospace;
+    color: #93a1a1;
 }
 p {
     font-size: 14px;
