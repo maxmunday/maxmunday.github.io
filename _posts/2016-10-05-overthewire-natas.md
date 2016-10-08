@@ -3,7 +3,7 @@ layout: post
 title: "OverTheWire - Natas Write-Up Levels 0 - 10"
 date: 2016-10-05
 description: "Walk-through guide to OverTheWire Natas."
-number: "0x06"
+number: "0x07"
 ---
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
