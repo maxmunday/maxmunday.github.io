@@ -58,7 +58,7 @@ Another page stating there is nothing there. The source reveals a clue though.
 
 `<!-- No more information leaks!! Not even Google will find it this time... -->`
 
-That alludes to the `robots.txt` file that is not scraped by Google. So I navigate to http://natas3.natas.labs.overthewire.org/robots.txt and it displays a disallowed page, `/s3cr3t/`.
+That alludes to the `robots.txt` file that tells webcrawlers what they can and can't access. So I navigate to http://natas3.natas.labs.overthewire.org/robots.txt and it displays a disallowed page, `/s3cr3t/`.
 
 I navigate to there and see another file index that shows a `users.txt` file, in that we find the password.
 
