@@ -70,11 +70,15 @@ I installed and used [Arch Linux](https://www.archlinux.org/) as learning tool a
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
-\-\-[ PHP/MySQL ]
-
-\* [HTML.net - PHP](http://html.net/tutorials/php/)
+\-\-[ MySQL ]
 
 \* [tutorialspoint - MySQL](http://www.tutorialspoint.com/mysql/)
+
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+
+\-\-[ PHP ]
+
+\* [HTML.net - PHP](http://html.net/tutorials/php/)
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
@@ -94,15 +98,15 @@ I installed and used [Arch Linux](https://www.archlinux.org/) as learning tool a
 
 \* [PentesterLab Bootcamp](https://pentesterlab.com/bootcamp) - I am doing a [write-up](https://www.maxmunday.com/blog/2016/05/14/pentesterlab-bootcamp-part-1-linux-and-scripting) of this course as I complete it.
 
-\* [Hack This Site - Basic Missions](https://www.hackthissite.org/)
-
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
 \-\-[  War Games ]
 
-\* [Over The Wire - Bandit](http://overthewire.org/wargames/)
+\* [Over The Wire ](http://overthewire.org/wargames/)
 
-\* [VulnHub - PRIMER](https://www.vulnhub.com/entry/primer-101,136/)
+\* [VulnHub ](https://www.vulnhub.com/)
+
+\* [Hack This Site ](https://www.hackthissite.org/)
 
 I really enjoyed these and plan to keep doing more in the future.
 
