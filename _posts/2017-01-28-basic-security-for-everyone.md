@@ -108,7 +108,7 @@ Password breaches happen all the [time](https://www.troyhunt.com/100-data-breach
 
 Relevant XKCD on passphrase strength:
 
-![](http://imgs.xkcd.com/comics/password_strength.png){:height="488px" width="565px"}
+![](https://imgs.xkcd.com/comics/password_strength.png){:height="488px" width="565px"}
 
 But seriously:
 
@@ -132,7 +132,7 @@ You should definitely use MFA for important applications such as email and banki
 
 [Here](https://support.google.com/accounts/answer/185839?hl=en) is the Gmail guide for enabling 2-Step Verification.
 
-SMS two-factor codes are better than nothing, but still have some [problems](http://www.smh.com.au/technology/consumer-security/malware-hijacks-big-four-australian-banks-apps-steals-twofactor-sms-codes-20160309-gnf528.html). If possible use security tokens such as [YubiKey](https://www.yubico.com/start/).
+SMS two-factor codes are better than nothing, but still have some [problems](https://www.smh.com.au/technology/consumer-security/malware-hijacks-big-four-australian-banks-apps-steals-twofactor-sms-codes-20160309-gnf528.html). If possible use security tokens such as [YubiKey](https://www.yubico.com/start/).
 
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
@@ -141,7 +141,7 @@ SMS two-factor codes are better than nothing, but still have some [problems](htt
 
 \* Keep them updated.
 
-\* [Don't let your browser store/save passwords](http://www.pandasecurity.com/mediacenter/security/browser-saves-password-secure/) (use a password manager instead).
+\* [Don't let your browser store/save passwords](https://www.pandasecurity.com/mediacenter/security/browser-saves-password-secure/) (use a password manager instead).
 
 
 \* Install uBlock Origin ([Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)). This wide-spectrum blocker stops [malvertising](https://en.wikipedia.org/wiki/Malvertising) among other things.
@@ -181,7 +181,7 @@ For Mac users I would recommend [Sophos](https://www.sophos.com/en-us/lp/sophos-
 
 Ideally you should do a clean install of Windows, this gets rid of all the bloatware that some manufacturers include in the OS. 
 
-[Here](http://www.howtogeek.com/224342/how-to-clean-install-windows-10/) is a guide to clean install Windows 10.  
+[Here](https://www.howtogeek.com/224342/how-to-clean-install-windows-10/) is a guide to clean install Windows 10.  
 
 If you're going to do a clean install make sure to: 
 
@@ -253,7 +253,7 @@ To keep it as secure as possible:
 
 \* Enable sync backups regularly.
 
-\* Never use public Wifi, or if you must use a [VPN](https://en.wikipedia.org/wiki/Virtual_private_network). [Here's](http://www.howtogeek.com/178696/why-using-a-public-wi-fi-network-can-be-dangerous-even-when-accessing-encrypted-websites/) why.
+\* Never use public Wifi, or if you must use a [VPN](https://en.wikipedia.org/wiki/Virtual_private_network). [Here's](https://www.howtogeek.com/178696/why-using-a-public-wi-fi-network-can-be-dangerous-even-when-accessing-encrypted-websites/) why.
 
 \* Be extra careful when jailbreaking or rooting.
 
