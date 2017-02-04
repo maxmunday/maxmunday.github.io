@@ -29,7 +29,7 @@ The documentation for [Jekyll](https://jekyllrb.com/docs/home/) and [GitHub Page
 
 \* [Custom 404 Page](https://help.github.com/articles/creating-a-custom-404-page-for-your-github-pages-site/)
 
-\* [Search Engine Optimisation](http://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf)
+\* [Search Engine Optimisation (PDF)](http://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf)
 
 \* [Colour scheme](http://ethanschoonover.com/solarized)
 
