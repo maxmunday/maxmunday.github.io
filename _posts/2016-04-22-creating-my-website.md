@@ -33,5 +33,7 @@ The documentation for [Jekyll](https://jekyllrb.com/docs/home/) and [GitHub Page
 
 \* [Colour scheme](http://ethanschoonover.com/solarized)
 
+\* [Email forwarding using domain through Mailgun](https://www.chrisanthropic.com/blog/2014/mail-forwarding-with-mailgun-and-cloudflare/)
+
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-

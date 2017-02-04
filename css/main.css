@@ -1,6 +1,6 @@
 body {
     margin: 60px auto;
-    width: 85%;
+    width: 80%;
     background-color: #002b36;
 }
 nav ul, footer ul {
@@ -39,7 +39,7 @@ h1 {
 }
 p {
     font-size: 14px;
-    font-family: monospace;
+    font-family: monospace; 
     line-height: 1.4em;
     font-weight: 400;
     color: #93a1a1;
