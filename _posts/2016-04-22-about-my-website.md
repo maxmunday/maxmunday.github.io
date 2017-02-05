@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Creating My Website"
+title: "About My Website"
 date: 2016-04-22
 description: "How I created my site using GitHub Pages and Jekyll."
 number: "0x01"
@@ -8,9 +8,6 @@ number: "0x01"
 
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
-
-
-I am creating my site from scratch mainly as a way of learning the basics of HTML and CSS.
 
 
 \-\-[ Basics ]
@@ -29,7 +26,7 @@ The documentation for [Jekyll](https://jekyllrb.com/docs/home/) and [GitHub Page
 
 \* [Custom 404 Page](https://help.github.com/articles/creating-a-custom-404-page-for-your-github-pages-site/)
 
-\* [Search Engine Optimisation (PDF)](http://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf)
+\* [Search Engine Optimisation [PDF]](http://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf)
 
 \* [Colour scheme](http://ethanschoonover.com/solarized)
 

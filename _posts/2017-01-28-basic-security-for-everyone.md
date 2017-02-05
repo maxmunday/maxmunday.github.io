@@ -15,6 +15,7 @@ Friends and family always ask me for tips on basic computer security, and I have
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
+
 \-\-[ SUMMARY ]
 
 \* Be very careful about what you click on.
@@ -53,11 +54,12 @@ This is the first question to ask when considering your security posture. This g
 
 The everyday user basically needs to protect themselves from virus infection, malware, and web-based exploit kits. And maybe the odd stolen phone or laptop.
 
-If you want to protect yourself from a nation state, you're pretty much shit out of luck. Try [this](https://www.qubes-os.org/) or [this](https://tails.boum.org/) I guess.
+If you want to protect yourself from a nation state, you're pretty much screwed. Try [this](https://www.qubes-os.org/) or [this](https://tails.boum.org/) I guess.
+
 
 == Online Behaviour ==
 
-This is the first and best line of defence: don't click on shit you don't understand.
+This is the first and best line of defence: don't click on things you don't understand.
 
 \* Don't open suspicious emails or attachments, especially strange invoices or fines.  
 
