@@ -209,6 +209,6 @@ and enter the password when prompted which will in turn display the next passwor
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
-Levels 16 - 20 to follow soon.
+[Levels 16 - 20 write-up](https://www.maxmunday.com/blog/2017/02/05/overthewire-bandit).
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
