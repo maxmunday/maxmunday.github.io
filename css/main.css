@@ -63,15 +63,12 @@ img.displayed {
     margin-left: auto;
     margin-right: auto;
 }
-code {
-    font-size: 15px;
-    font-family: monospace;
-    line-height: 1.4em;
-    font-weight: 500;
-    background: #073642;
-    color: #859900;
-    padding: 3px; 
+  code {
+    background: #001b33;
+    color: #859900; 
+    padding: 3px;
 }
+
 pre {
     font-size: 14px;
     font-family: monospace;

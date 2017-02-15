@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OverTheWire - Bandit Write-Up Levels 0 - 15"
+title: "OverTheWire - Bandit Levels 0 - 15"
 date: 2016-11-10
 description: "Walk-through guide to OverTheWire Bandit."
 number: "0x08"
@@ -15,7 +15,9 @@ This is my write-up of the [OverTheWire](http://overthewire.org) wargame [Bandit
 
 We start by using SSH to log into `bandit.labs.overthewire.org`. We can use the command `ls` to list the files in the current directory, which displays the file `readme`. We then can use 
 
-`cat readme` 
+{% highlight shell %}
+$ cat readme
+{% endhighlight %}
 
 to display the contents of the file in the command line. This is the password to the next level.
 
@@ -25,7 +27,9 @@ to display the contents of the file in the command line. This is the password to
 
 After using `ls` to find the file titled `-`, we can use the command 
 
-`cat ./-` 
+{% highlight shell %}
+$ cat ./-
+{% endhighlight %}
 
 to display the contents. `./` means you are looking in the current directory.
 
@@ -35,7 +39,9 @@ to display the contents. `./` means you are looking in the current directory.
 
 The file is this directory has spaces that need to be escaped to work in the command line. For me, I simply type `cat s` then the tab auto-complete finishes the command to 
 
-`cat spaces\ in\ this\ filename` 
+{% highlight shell %}
+$ cat spaces\ in\ this\ filename
+{% endhighlight %}
 
 The `\` tells the command line to ignore the character following it, which in this case is a space.
 
@@ -45,15 +51,21 @@ The `\` tells the command line to ignore the character following it, which in th
 
 This directory contains the subdirectory `inhere`. We use 
 
-`cd inhere/` 
+{% highlight shell %}
+$ cd inhere/
+{% endhighlight %}
 
 to change the working directory to `inhere`, then we use 
 
-`ls -a` 
+{% highlight shell %}
+$ ls -a
+{% endhighlight %}
 
 to list all the files, including the hidden ones. We see a file called `.hidden`, so we use 
 
-`cat ./.hidden` 
+{% highlight shell %}
+$ cat ./.hidden
+{% endhighlight %}
 
 to display its contents.
 
@@ -63,11 +75,15 @@ to display its contents.
 
 There are several files contained within the directory `inhere` and the password is contained in the only human readable file. We can use 
 
-`file ./-*` 
+{% highlight shell %}
+$ file ./-*
+{% endhighlight %}
 
 to list the file types. File `-file07` reads `ASCII text` so we then 
 
-`cat ./-file07` 
+{% highlight shell %}
+$ cat ./-file07
+{% endhighlight %}
 
 to display the password.
 
@@ -77,7 +93,9 @@ to display the password.
 
 The are again several directories with files in them, but the password is contained in a human readable file, with a size of 1033 bytes. We can use the command 
 
-`find ./ -size 1033c` 
+{% highlight shell %}
+$ find ./ -size 1033c
+{% endhighlight %}
 
 and it displays `./maybehere07/.file2`, we can use `cat` to display the password.
 
@@ -89,11 +107,15 @@ The password is 'somewhere on the server' with the following attributes: - owned
 
 We can use the command 
 
-`find / -user bandit7 -group bandit6  -size 33c 2</dev/null` 
+{% highlight shell %}
+$ find / -user bandit7 -group bandit6  -size 33c 2</dev/null 
+{% endhighlight %}
 
 and cat into the resulting file location 
 
-`cat /var/lib/dpkg/info/bandit7.password`
+{% highlight shell %}
+$ cat /var/lib/dpkg/info/bandit7.password
+{% endhighlight %}
 
 The `2</dev/null` bins the errors and cleans up the resulting output.
 
@@ -105,7 +127,9 @@ The password is stored in `data.txt` next to the word 'millionth'.
 
 We can use the command
 
-`cat data.txt | grep millionth`
+{% highlight shell %}
+$ cat data.txt | grep millionth
+{% endhighlight %}
 
 to display the password. `|` pipes the resulting output into the next command, `grep` then searches for the line of text next to the word 'millionth'.
 
@@ -117,7 +141,9 @@ The password is stored in `data.txt` and is the only line of text that occurs on
 
 We can use the command
 
-`sort data.txt | uniq -u`
+{% highlight shell %}
+$ sort data.txt | uniq -u
+{% endhighlight %}
 
 This 'sorts' the lines of text in file so that that can be searched, and pipes the results into `uniq -u` that displays the only unique line of text.
 
@@ -127,7 +153,9 @@ This 'sorts' the lines of text in file so that that can be searched, and pipes t
 
 The password is stored in `data.txt` in one of the few human-readable strings, beginning with several ‘=’ characters.
 
-`strings data.txt | grep ==`
+{% highlight shell %}
+$ strings data.txt | grep ==
+{% endhighlight %}
 
 This uses `strings` which prints printable characters, then pipes it into `grep` which searches for the '==' characters.
 
@@ -137,7 +165,9 @@ This uses `strings` which prints printable characters, then pipes it into `grep`
 
 The password is in the data.txt file, encoded in base64.
 
-`base64 -d data.txt`
+{% highlight shell %}
+$ base64 -d data.txt
+{% endhighlight %}
 
 This simply decodes base64 encoded data and displays the password.
 
@@ -147,7 +177,9 @@ This simply decodes base64 encoded data and displays the password.
 
 The password is in the data.txt file, encoded by a rot13 cipher, meaning all lowercase and uppercase letters have been rotated by 13 positions.
 
-`cat data.txt | tr '[A-Za-z]' '[N-ZA-Mn-za-m]'`
+{% highlight shell %}
+$ cat data.txt | tr '[A-Za-z]' '[N-ZA-Mn-za-m]'
+{% endhighlight %}
 
 gives us the password.
 
@@ -157,21 +189,23 @@ gives us the password.
 
 The data.txt file in this level is a repeatedly compressed hexdump, the following commands unpack the file, and display the password.
 
-`xxd -r data.txt data`  
-`mv data data.gzip`  
-`gunzip data.gzip`  
-`mv data.gzip data.gz`  
-`gunzip data.gz`  
-`bunzip2 data`  
-`mv data.out data.gz`  
-`gunzip data.gz`  
-`tar -xf data`  
-`file data5.bin`   
-`tar -xf data5.bin`  
-`bunzip2 data6.bin`  
-`mv data8.bin data8.bin.gz`  
-`gunzip data8.bin.gz`   
-`cat data8`
+{% highlight shell %}
+$ xxd -r data.txt data  
+$ mv data data.gzip  
+$ gunzip data.gzip  
+$ mv data.gzip data.gz  
+$ gunzip data.gz  
+$ bunzip2 data  
+$ mv data.out data.gz  
+$ gunzip data.gz  
+$ tar -xf data  
+$ file data5.bin   
+$ tar -xf data5.bin  
+$ bunzip2 data6.bin  
+$ mv data8.bin data8.bin.gz  
+$ gunzip data8.bin.gz   
+$ cat data8
+{% endhighlight %}
 
 Between each command `file data` can be used to determine which following command needs to be used.
 
@@ -181,7 +215,9 @@ Between each command `file data` can be used to determine which following comman
 
 The password for the next level is stored in /etc/bandit_pass/bandit14 and can only be read by user bandit14. For this level, you don’t get the next password, but you get a private SSH key that can be used to log into the next level.
 
-`ssh -i sshkey.private bandit14@localhost`
+{% highlight shell %}
+$ ssh -i sshkey.private bandit14@localhost
+{% endhighlight %}
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
@@ -189,11 +225,15 @@ The password for the next level is stored in /etc/bandit_pass/bandit14 and can o
 
 The password for the next level can be retrieved by submitting the password of the current level to port 30000 on localhost.
 
-`cat /etc/bandit_pass/bandit14`
+{% highlight shell %}
+$ cat /etc/bandit_pass/bandit14
+{% endhighlight %}
 
 to display password (we have been told previously this is where it is contained). Then
 
-`telnet localhost 30000`
+{% highlight shell %}
+$ telnet localhost 30000
+{% endhighlight %}
 
 and enter the password when prompted which will in turn display the next password before closing.
 
@@ -203,7 +243,9 @@ and enter the password when prompted which will in turn display the next passwor
 
 The password for the next level can be retrieved by submitting the password of the current level to port 30001 on localhost using SSL encryption.
 
-`openssl s_client -connect localhost:30001`
+{% highlight shell %}
+$ openssl s_client -connect localhost:30001
+{% endhighlight %}
 
 and enter the password when prompted which will in turn display the next password.
 

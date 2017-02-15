@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OverTheWire - Natas Write-Up Levels 0 - 10"
+title: "OverTheWire - Natas Levels 0 - 10"
 date: 2016-10-05
 description: "Walk-through guide to OverTheWire Natas."
 number: "0x07"
@@ -46,7 +46,9 @@ We see this
 
 I view the source again and find a reference to a file location.
 
-`<img src="files/pixel.png">`
+{% highlight html %}
+<img src="files/pixel.png">
+{% endhighlight %}
 
 I navigate to `http://natas2.natas.labs.overthewire.org/files/` and see the file index. This shows another file `users.txt`. I go there and there we have the password.
 
