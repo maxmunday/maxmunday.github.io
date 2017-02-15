@@ -19,6 +19,8 @@ Some helpful tutorials were Jonathan McGlone's [guide](http://jmcglone.com/guide
 
 The documentation for [Jekyll](https://jekyllrb.com/docs/home/) and [GitHub Pages](https://help.github.com/categories/github-pages-basics/) is also very helpful.
 
+View the source code for my site [here](https://github.com/maxmunday/maxmunday.github.io). Feel free to use this for your own project or however you wish.
+
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
 \-\-[ Extras ]
