@@ -7,7 +7,7 @@ number: "0x07"
 ---
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
-This is my write-up of the [OverTheWire](http://overthewire.org) wargame [Natas](http://overthewire.org/wargames/natas/) levels 0 - 10. This is an enjoyable serverside web-security wargame aimed at beginners. If you notice any problems please [contact](/contact) me to let me know.
+This is my write-up of the [OverTheWire](http://overthewire.org) wargame [Natas](http://overthewire.org/wargames/natas/) Levels 0 - 10. Levels 11 - 15 can be found [here](/blog/2017/02/22/overthewire-natas). This is an enjoyable serverside web-security wargame aimed at beginners. If you notice any problems please [contact](/contact) me to let me know.
  
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
@@ -146,6 +146,6 @@ But it worked...
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
-Levels 10 - 20 to follow soon.
+[Levels 11 - 15](/blog/2017/02/22/overthewire-natas)
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
