@@ -35,7 +35,7 @@ So, that is what I focused on for my self-study. Formal study, certifications an
 This is what I have worked through so far, with some included resources. Of course this is still an ongoing work in progress.
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
-00. SYSTEM ADMINISTRATION  
+SYSTEM ADMINISTRATION  
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
 
 \-\-[ Linux/Bash ]
@@ -49,7 +49,7 @@ This is what I have worked through so far, with some included resources. Of cour
 I installed and used [Arch Linux](https://www.archlinux.org/) as learning tool after starting with [Linux Mint](https://www.linuxmint.com/). I now use [Kubuntu](http://www.kubuntu.org/) as a daily driver, and have [Kali](https://www.kali.org/) in a VM for learning pentesting.
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
-01. NETWORKING  
+NETWORKING  
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
 
 \* [Cybrary's CompTIA Network+ course](https://www.cybrary.it/course/comptia-network-plus/)
@@ -57,7 +57,7 @@ I installed and used [Arch Linux](https://www.archlinux.org/) as learning tool a
 (I plan to get CCNA certified through another means.)
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
-02. PROGRAMMING/SCRIPTING/MARKUP  
+PROGRAMMING/SCRIPTING/MARKUP  
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\- 
 
 \-\-[  Python ]
@@ -89,7 +89,7 @@ I installed and used [Arch Linux](https://www.archlinux.org/) as learning tool a
 \* [HTML.net - CSS](http://html.net/tutorials/css/)
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
-03. INFOSEC  
+INFOSEC  
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
 \-\-[  Pentesting ]
