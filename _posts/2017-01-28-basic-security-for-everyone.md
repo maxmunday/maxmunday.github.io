@@ -203,7 +203,7 @@ If you're going to do a clean install make sure to:
 `Control Panel > User Accounts > Change User Account Control settings`   
 Slide panel to Always notify
 
-![](https://www.tenforums.com/attachments/tutorials/10474d1485862815-user-account-control-uac-change-settings-windows-10-a-uac_always_notify_me_when.jpg?s=dea5286b3c0f678adb994a0082b6e341){:height="488px" width="565px"}
+![](/pictures/UAC_Always_notify_me_when.jpg){:height="543px" width="623px"}
 
 == Disk Encryption ==
 

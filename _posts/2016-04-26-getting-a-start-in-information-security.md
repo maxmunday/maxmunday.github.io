@@ -2,7 +2,7 @@
 layout: post
 title: "Getting a Start in Information Security"
 date: 2016-04-26
-description: "Courses and tutorials I have done to begin my career in information security."
+description: "Courses and tutorials to begin a career in information security."
 number: "0x02"
 ---
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
@@ -14,39 +14,44 @@ Trust your technolust...
 
 I like information security, I like it so much I decided to make it my career. 
 
-So I read as much as I could about the different roles, and what I needed to do to make a start in the field. I decided to focus on offensive security, as it is what I enjoy the most and it seems like an interesting place to start.
+Luckily, I found there was a lot of information and knoweldge freely available for those that knew where to look. The amount of information can be overwhelming, and it is neccesary to focus on what is neccesary and relevent.
 
+Firstly, it is important to figure out what role you are aiming for in InfoSec. There are many different specialisations that are all quite different from each other. I think the best advice in this regard is to do some cusory research and find what you're most interested in and dive into that. 
+
+There is a great series of posts by Lesley Carhart ([@hacks4pancakes](https://twitter.com/hacks4pancakes?lang=en)) on her blog about the different roles. You can find the first post [here](https://tisiphone.net/2015/10/12/starting-an-infosec-career-the-megamix-chapters-1-3/).
+
+Personally, I enjoyed pentesting the most so I focused my learning towards that.
 
 The advice I read all pointed toward the need for a good foundation in three areas: 
 
 
-\* system administration
+\* System administration
 
-\* networking
+\* Networking
 
-\* programming
+\* Programming
 
 In addition several people suggested getting a head start on offensive security concepts alongside the basics.
 
-
-So, that is what I focused on for my self-study. Formal study, certifications and work experience will round it out properly in the near future.
-
-
-This is what I have worked through so far, with some included resources. Of course this is still an ongoing work in progress.
+Here are some books, video series, wikis, resources, and courses I have done and have found useful. I feel like this can cover the basics well, and put someone in good stead for employment.
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
 SYSTEM ADMINISTRATION  
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
 
-\-\-[ Linux/Bash ]
+\-\-[ Linux ]
 
 \* [The Linux Command Line by William Shotts](http://linuxcommand.org/tlcl.php)
 
 \* [Arch Linux Wiki](https://wiki.archlinux.org/)
 
-\* [Reddit's /r/Linux4Noobs](https://www.reddit.com/r/linux4noobs/)
+\-\-[ Windows ]
 
-I installed and used [Arch Linux](https://www.archlinux.org/) as learning tool after starting with [Linux Mint](https://www.linuxmint.com/). I now use [Kubuntu](http://www.kubuntu.org/) as a daily driver, and have [Kali](https://www.kali.org/) in a VM for learning pentesting.
+\* [Windows Server Administration by Microsoft](https://www.youtube.com/watch?v=4smwj9PxhwA)
+
+\* [Active Directory series by Eli the Computer Guy](https://www.youtube.com/watch?v=hxgz7MR7MGQ)
+
+
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
 NETWORKING  
@@ -54,10 +59,9 @@ NETWORKING
 
 \* [Cybrary's CompTIA Network+ course](https://www.cybrary.it/course/comptia-network-plus/)
 
-(I plan to get CCNA certified through another means.)
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
-PROGRAMMING/SCRIPTING/MARKUP  
+PROGRAMMING  
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\- 
 
 \-\-[  Python ]
@@ -70,33 +74,36 @@ PROGRAMMING/SCRIPTING/MARKUP
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
-\-\-[ MySQL ]
-
-\* [tutorialspoint - MySQL](http://www.tutorialspoint.com/mysql/)
-
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
-
 \-\-[ PHP ]
 
 \* [HTML.net - PHP](http://html.net/tutorials/php/)
 
+\* [PHP The Right Way](http://www.phptherightway.com/)
+
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
-\-\-[ HTML/CSS ]
+\-\-[ SQL ]
 
-\* [HTML.net - HTML](http://html.net/tutorials/html/)
+\* [codeacademy - Learn SQL](https://www.codecademy.com/learn/learn-sql)
 
-\* [HTML.net - CSS](http://html.net/tutorials/css/)
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
 INFOSEC  
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
+\-\-[  Security Basics ]
+
+\* [Security+ series by Professor Messer ](https://www.youtube.com/playlist?list=PLG49S3nxzAnkcKd71N4OjSv4cUXNhoPlQ)
+
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+
 \-\-[  Pentesting ]
 
-\* [PentesterLab](https://pentesterlab.com/individuals) - Beginner exercises.
+\* [PentesterLab exercises](https://pentesterlab.com/individuals) 
 
 \* [PentesterLab Bootcamp](https://pentesterlab.com/bootcamp) - I am doing a [write-up](https://www.maxmunday.com/blog/2016/05/14/pentesterlab-bootcamp-part-1-linux-and-scripting) of this course as I complete it.
+
+\* [Cybrary's Ethical Hacking with Kali course](https://www.cybrary.it/skill-certification-course/ethical-hacking-and-penetration-testing-with-kali-linux-certification-training-course)
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
@@ -107,8 +114,6 @@ INFOSEC
 \* [VulnHub ](https://www.vulnhub.com/)
 
 \* [Hack This Site ](https://www.hackthissite.org/)
-
-I really enjoyed these and plan to keep doing more in the future.
 
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
