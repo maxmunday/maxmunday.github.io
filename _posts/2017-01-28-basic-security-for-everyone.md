@@ -158,17 +158,11 @@ SMS two-factor codes are better than nothing, but still have some [problems](htt
 
 Antivirus can be a contentious subject. A lot of them don't offer much, they install a lot of bloatware and constantly hassle the user with upselling pop-ups.
 
- Antivirus software alone is not enough to protect yourself online. A combination of antivirus and anti-malware is essential.
+ Antivirus software alone is not enough to protect yourself online.
 
 == Antivirus ==
 
-Windows Defender, the stock Windows antivirus, isn't great but it is better than nothing. Especially if you're not engaged in 'high-risk' browsing, such as downloading pirated content. If you do decide to use this, make sure it and the firewall are turned on.
-
-Personally, I use the free version of [BitDefender](https://www.bitdefender.com.au/solutions/free.html).
-
-I would recommend [Kaspersky](https://www.kaspersky.com.au/home-security#pc) or [BitDefender](https://www.bitdefender.com/Downloads/) if you want to pay for antivirus.
-
-For Mac users I would recommend [Sophos](https://www.sophos.com/en-us/lp/sophos-home.aspx) as a free antivirus, and again [Kaspersky](https://www.kaspersky.com.au/home-security#mac) or [BitDefender](https://www.bitdefender.com/Downloads/) for paid products.
+Windows Defender, the stock Windows antivirus, is fine.
 
 == Anti-Malware ==
 
